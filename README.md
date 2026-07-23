@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Satyavarun2004/leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Satyavarun2004/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Satyavarun2004/leetcode/tree/master/0268-missing-number) |
+| [3866-first-unique-even-element](https://github.com/Satyavarun2004/leetcode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Satyavarun2004/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3866-first-unique-even-element](https://github.com/Satyavarun2004/leetcode/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3866-first-unique-even-element](https://github.com/Satyavarun2004/leetcode/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
