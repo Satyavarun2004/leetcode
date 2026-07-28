@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Satyavarun2004/leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Satyavarun2004/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Satyavarun2004/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Satyavarun2004/leetcode/tree/master/0283-move-zeroes) |
 | [3866-first-unique-even-element](https://github.com/Satyavarun2004/leetcode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyavarun2004/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3866-first-unique-even-element](https://github.com/Satyavarun2004/leetcode/tree/master/3866-first-unique-even-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Satyavarun2004/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
