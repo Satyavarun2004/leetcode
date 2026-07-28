@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satyavarun2004/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Satyavarun2004/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satyavarun2004/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyavarun2004/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Satyavarun2004/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satyavarun2004/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Satyavarun2004/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyavarun2004/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
