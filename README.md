@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satyavarun2004/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Satyavarun2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Satyavarun2004/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Satyavarun2004/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satyavarun2004/leetcode/tree/master/0137-single-number-ii) |
@@ -83,5 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Satyavarun2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Satyavarun2004/leetcode/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Satyavarun2004/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
