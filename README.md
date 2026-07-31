@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Satyavarun2004/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Satyavarun2004/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyavarun2004/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Satyavarun2004/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Satyavarun2004/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satyavarun2004/leetcode/tree/master/0137-single-number-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satyavarun2004/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyavarun2004/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Satyavarun2004/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
