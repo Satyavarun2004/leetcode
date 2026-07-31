@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Satyavarun2004/leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyavarun2004/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satyavarun2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Satyavarun2004/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
