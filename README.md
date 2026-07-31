@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Satyavarun2004/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Satyavarun2004/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Satyavarun2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyavarun2004/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Satyavarun2004/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Satyavarun2004/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Satyavarun2004/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyavarun2004/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
