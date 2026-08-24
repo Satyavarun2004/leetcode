@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Satyavarun2004/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Satyavarun2004/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Satyavarun2004/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Satyavarun2004/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Satyavarun2004/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Satyavarun2004/leetcode/tree/master/0263-ugly-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Satyavarun2004/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Satyavarun2004/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyavarun2004/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Satyavarun2004/leetcode/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Satyavarun2004/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
