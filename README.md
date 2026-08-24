@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Satyavarun2004/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Satyavarun2004/leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyavarun2004/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Satyavarun2004/leetcode/tree/master/0112-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Satyavarun2004/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
